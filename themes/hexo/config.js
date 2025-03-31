@@ -29,6 +29,7 @@ const CONFIG = {
   HEXO_POST_LIST_SUMMARY: true, // 文章摘要
   HEXO_POST_LIST_PREVIEW: false, // 读取文章预览
   HEXO_POST_LIST_IMG_CROSSOVER: false, // 博客列表图片左右交错
+  HEXO_POSTS_SORT_BY: 'notion', // 排序方式 'date'按时间,'notion'由notion控制
 
   HEXO_ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
   HEXO_ARTICLE_COPYRIGHT: true, // 显示文章版权声明
